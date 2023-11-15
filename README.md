@@ -1,0 +1,1 @@
+A whatsapp chat analysis project. The app is developed to accecpt whatsapp chats and perform analysis.
